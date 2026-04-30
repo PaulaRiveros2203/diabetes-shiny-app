@@ -1,0 +1,10 @@
+name: PacientesConDiabetes
+title:
+username: pacientesdiabetes
+account: pacientesdiabetes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17253426
+bundleId: 11927329
+url: https://pacientesdiabetes.shinyapps.io/PacientesConDiabetes/
+version: 1
